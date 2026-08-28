@@ -21,7 +21,6 @@ Ich habe manchmal paar Zeichen vergessen, aber immer geschaut ob es trotzdem geh
  {
      Console.WriteLine("Du möchtest deine Statistik anzeigen.");
  }
-✍️ Heute habe ich... (50-100 Wörter)
 
 ## 6.9.2026
 
