@@ -30,10 +30,10 @@ Ich habe manchmal paar Zeichen vergessen, aber immer geschaut ob es trotzdem geh
 ## Reflexion
 Ich habe es nicht geschafft den Programm SportQuest fertig zu programmieren und jetzt muss ich es noch einmal neu schreiben da ich nicht bekommen habe was ich wollte und deswegen habe ich heute wieder mit dem Programm gearbeitet und die 1. Trainings frage angepasst.
 ## 11.9.2026
--[ ] Ich muss dieses Programm mit jeder Nummer, eine Frage stellen.
--[ ] Weiter mit 2 und 3 Nummer fertig machen.
--[ ] Schauen ob den Programm funktioniert und es überarbeiten.
--[ ] Wenn noch Zeit übrig bleibt mache ich noch die 4 und 5 Nummer.
+- [ ] Ich muss dieses Programm mit jeder Nummer, eine Frage stellen.
+- [ ] Weiter mit 2 und 3 Nummer fertig machen.
+- [ ] Schauen ob den Programm funktioniert und es überarbeiten.
+- [ ] Wenn noch Zeit übrig bleibt mache ich noch die 4 und 5 Nummer.
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen    
