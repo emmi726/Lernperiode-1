@@ -24,7 +24,7 @@ Ich habe manchmal paar Zeichen vergessen, aber immer geschaut ob es trotzdem geh
 
 ## 6.9.2026
 
-- [ ] Ich will meine SportQuest fertig erstellen, damit es dann funktioniert.
+- [X] Ich will meine SportQuest fertig erstellen, damit es dann funktioniert.
 - [ ] Wenn ich fertig bin, will ich ein neues Programm erstellen, der schwieriger ist und zwar eine Webseite mit verschiedene Sportarten.
 - [ ] Wenn ich mit der Webseite fertig bin, möchte ich dann weiter an dem Modul 319 weiterarbeiten.
 ## Reflexion
@@ -35,6 +35,14 @@ Ich habe es nicht geschafft den Programm SportQuest fertig zu programmieren und 
 - [X] Schauen ob den Programm funktioniert und es überarbeiten.
 - [X] Wenn noch Zeit übrig bleibt mache ich noch die 4 und 5 Nummer.
 ## Reflexion
+Ich habe heute an meinem Projekt gearbeitet und die vier Arbeitspakete fertig gemacht. Ich habe es nochmals angeschaut und ich habe viel mehr gelernt und was die Sachen auch bedeuten verstanden. Dieses Projekt hat meine Erfüllungen erfüllt am Schluss.
+## Hausaufgaben für den 9.9.2026
+- [ ] Planen was ich unbedingt machen will wahrscheinlich muss es dann Noten zusammen berechnen also ein Notenberechner.
+## 18.9.2026
+- [ ] Ein PAP erstellen und es dann selber versuchen zu programmieren.
+- [ ] Wenn ich programmiert habe, es schritt für schritt kontrollieren.
+
+      
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen    
