@@ -37,10 +37,11 @@ Ich habe es nicht geschafft den Programm SportQuest fertig zu programmieren und 
 ## Reflexion
 Ich habe heute an meinem Projekt gearbeitet und die vier Arbeitspakete fertig gemacht. Ich habe es nochmals angeschaut und ich habe viel mehr gelernt und was die Sachen auch bedeuten verstanden. Dieses Projekt hat meine Erfüllungen erfüllt am Schluss.
 ## Hausaufgaben für den 9.9.2026
-- [ ] Planen was ich unbedingt machen will wahrscheinlich muss es dann Noten zusammen berechnen also ein Notenberechner.
+- [X] Planen was ich unbedingt machen will wahrscheinlich ein Notenberechner für Notendurchschnitte.
+- [X] Ein PAP erstellen.
 ## 18.9.2026
-- [ ] Ein PAP erstellen und es dann selber versuchen zu programmieren.
-- [ ] Wenn ich programmiert habe, es schritt für schritt kontrollieren.
+- [ ] Das PAP, dann selber versuchen zu programmieren.
+- [ ] Wenn ich programmiert habe, es Schritt für Schritt kontrollieren.
 
       
 ✍️ Heute habe ich... (50-100 Wörter)
