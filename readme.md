@@ -47,6 +47,9 @@ Ich habe heute an meinem Projekt gearbeitet und die vier Arbeitspakete fertig ge
 ## 18.9.2026
 - [X] Das PAP, dann selber versuchen zu programmieren.
 - [X] Wenn ich programmiert habe, es Schritt für Schritt kontrollieren.
+## Zusammenfassung
+Am Anfang wusste ich nicht was ich machen musste und habe gedacht ich könnte eine Webseite erstellen, doch das war viel zu schwierig. Deshalb habe ich gedacht ich könnte etwas ähnliches machen, das gleich ist aber nicht schwierig und habe dann probiert auf Visual Studio, dass das ich als Webseite machen wollte ähnlich zu machen und habe das bekommen was ich wollte. Ich habe nicht aufgegeben bis am Schluss und als ich fertig war habe ich ein zweites einfaches Projekt probiert.
+Der erste Projekt habe ich viel über das Programmieren gelernt wie man ein Programm richtig erstellt und die genau Ausgaben und was man alles so braucht um ein richtiges Programm zu erstellen. Heute habe ich vor allem das zweite leichtere Projekt gemacht, für das programmieren besser zu lernen und mich dran zugewönnen wie es so ist was man alles für Kompetenzen erbringen muss und ich habe es viel besser verstanden und ich denke mit viel Übung kann man es noch besser erreichen.
 
       
 ✍️ Heute habe ich... (50-100 Wörter)
