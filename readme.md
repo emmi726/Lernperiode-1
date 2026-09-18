@@ -40,8 +40,8 @@ Ich habe heute an meinem Projekt gearbeitet und die vier Arbeitspakete fertig ge
 - [X] Planen was ich unbedingt machen will wahrscheinlich ein Notenberechner für Notendurchschnitte.
 - [X] Ein PAP erstellen.
 ## 18.9.2026
-- [ ] Das PAP, dann selber versuchen zu programmieren.
-- [ ] Wenn ich programmiert habe, es Schritt für Schritt kontrollieren.
+- [X] Das PAP, dann selber versuchen zu programmieren.
+- [X] Wenn ich programmiert habe, es Schritt für Schritt kontrollieren.
 
       
 ✍️ Heute habe ich... (50-100 Wörter)
