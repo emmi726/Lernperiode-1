@@ -1,0 +1,40 @@
+using System;
+using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Notendurchschnitt
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Herzlich Willkommen");
+            
+            Console.WriteLine("Welches Fach soll berechnet werden?");
+            string fach = Console.ReadLine();
+            
+            Console.WriteLine("Wie viele Noten hast du geschrieben?");
+             int anzahlNoten = Convert.ToInt32(Console.ReadLine());
+
+            double summe = 0;
+
+            Console.WriteLine("Gib deine Noten an: ");
+
+            for (int i = 1; i <= anzahlNoten; i++)
+            {
+                Console.WriteLine("Note" + i + ": ");
+                double note = Convert.ToDouble(Console.ReadLine());
+                summe = summe + note;
+            }
+
+            double Notendurchschnitt = summe / anzahlNoten;
+           
+            Console.WriteLine("Notendurchschnitt in " + fach + ": " + Notendurchschnitt);
+
+            
+        }
+    }
+}
