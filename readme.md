@@ -1,6 +1,9 @@
 # Lern-Periode 1
 
 28.8 bis 18.09
+## Fertiges Projekt
+In meinem Projekt kann man sein eigenes Training erstellen für eine oder mehreren Sportarten. Es wird dann auf der Konsole gespeichert und man kann sich dann jede Woche verbessern. Es lohnt sich bei jemanden, der viel Sport macht und sich verbessern möchte.
+<img width="480" height="282" alt="converted" src="https://github.com/user-attachments/assets/9f476ee4-a985-48e7-be5b-8c135b5fd53d" />
 
 ## Grob-Planung
 Sport-App
